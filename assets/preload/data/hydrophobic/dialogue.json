@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "gellogus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*dies*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh got ratiod. L"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh boy i hope a water bottle doesnt come out of nowhere and rap battle us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mcwaterbottle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey guys im a water bottle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "mcwaterbottle",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OH MY GOD IS THAT A PERSON OF THE OPPOSITE GENDER "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "mcwaterbottle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, i know this is kinda weird and pushy haha, but would you like to have sex with me? I'm not a creep or a pervert, just a genuine guy. I would treat you with respect and the sex would be good. I can even make you squirt if the connection is right haha. I will not judge you or think you're \"easy\". So yeah, excuse me if i come across as a little uncalibrated but i think you're attractive, so what do you think? :) haha"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		}
+	]
+}

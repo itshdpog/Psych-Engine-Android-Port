@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mcwaterbottle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*dies* 2"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well hopefully that was the last one "
+		},
+		{
+			"speed": 0.16,
+			"portrait": "gripplesnatch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "w h y  d i d  y o u  k i l l  h i m . . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh. it aint my fault"
+		},
+		{
+			"speed": 0.14,
+			"portrait": "gripplesnatch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "y o u  a r e  g o n n a  s e e  g o d . . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

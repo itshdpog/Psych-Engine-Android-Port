@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "bfd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "woah it really is a beautiful day isnt it, gf"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "stage",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "shrinking sounds"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT THE FUCK"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok ik im small but i didnt think i was this sm-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gellogus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AYO wazzup losers!!1!!!!!!!!11!1111"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "b-bb-b-b-bbb-b-b-beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gellogus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro. i literally saw u speak english a second ago......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gellogus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gellogus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AYO WHATS GOOD SHAWTY "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ummmm... sorry im taken"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gellogus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "did i ask"
+		}
+	]
+}
